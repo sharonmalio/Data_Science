@@ -1,2 +1,2 @@
 # Data_Science
-Learnign Coursera course on Data Sciecne
+Learning Coursera course on Data Science
